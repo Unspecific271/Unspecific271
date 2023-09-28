@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my Github page!  </br> I'm Ng Zi Yao, Data Scientist | Data Analyst
+<p>Welcome to my Github page!  </br> I'm Ng Zi Yao, Aspiring Data Scientist | Data Analyst | Data Engineer | Fullstack Developer
 
 <h3>Things I code with</h3>
 <p>
